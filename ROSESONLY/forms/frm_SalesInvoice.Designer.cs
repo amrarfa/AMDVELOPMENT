@@ -265,7 +265,7 @@
             this.ck_productRepet.Name = "ck_productRepet";
             this.ck_productRepet.Properties.Appearance.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ck_productRepet.Properties.Appearance.Options.UseFont = true;
-            this.ck_productRepet.Properties.Caption = "تكرار الصنف";
+            this.ck_productRepet.Properties.Caption = "تكرار الصنف2";
             this.ck_productRepet.Size = new System.Drawing.Size(77, 19);
             this.ck_productRepet.TabIndex = 142;
             this.ck_productRepet.ToolTip = "تكرار نفس الصنف فى الفاتورة";
